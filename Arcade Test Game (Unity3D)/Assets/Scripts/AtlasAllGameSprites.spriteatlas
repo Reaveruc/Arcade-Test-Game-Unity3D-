@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AtlasAllGameSprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: de850192d14744247b8a1fc5b456b0af, type: 3}
+    totalSpriteSurfaceArea: 1058138
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ccf318405258fa14e9a41a973999e5e0, type: 3}
+  - {fileID: 21300000, guid: 2b3fe8d0726de8e4db0eb5b9ad1e181e, type: 3}
+  - {fileID: 21300000, guid: 2f1eb63174596674dace05536c33d7aa, type: 3}
+  - {fileID: 21300000, guid: 1ea0e2613817426478a7bb356fd205c2, type: 3}
+  - {fileID: 21300000, guid: 3388abd4b7a5747438b24f1687c1da43, type: 3}
+  - {fileID: 21300000, guid: 250b2c869fdd51e4f9e0e8b7382f2971, type: 3}
+  - {fileID: 21300000, guid: 22714408571b42144b0c0571f89c8a4b, type: 3}
+  - {fileID: 21300000, guid: 4e294549160c1d546890e28bcb08c28a, type: 3}
+  - {fileID: 21300000, guid: 8c7a9f895be87fc4ca8eee2add81cf86, type: 3}
+  - {fileID: 21300000, guid: aefc350beb8b2924ab0ca2719d2b1e9c, type: 3}
+  - {fileID: 21300000, guid: ab55f3cc2d34dae46925dfb1ecc6f60f, type: 3}
+  - {fileID: 21300000, guid: 29d758dea6c097f46af8ba6d0a43b59d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - spaceship3
+  - meteor4
+  - spaceship4
+  - meteor2
+  - Star_Sky
+  - spaceship
+  - bullet
+  - meteor1
+  - spaceship2
+  - meteor3
+  - meteor
+  - spaceship1
+  m_RenderDataMap: {}
+  m_Tag: AtlasAllGameSprites
+  m_IsVariant: 0
